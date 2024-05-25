@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+Started my journey into code a couple years ago now.
+Mainly interested in programming crypto-trading bots.
+
+- Currently working on a small capacity market-making bot.
+- Experience in Python, looking to get into Rust.
+
+I love when machines talk to each other.
 <!--
 **ywallis/ywallis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
