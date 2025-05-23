@@ -3,6 +3,12 @@
 I love solving problems and making machines talk to each other.
 I am a self-taught software engineer with a background in business and airline software development.
 
+🌱 I've been coding in Python primarily since 2022.
+🖥️ Using neovim on a Thinkpad running Linux, one Arch install away from filling all stereotypes.
+
+
+
+
 <!--
 **ywallis/ywallis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
