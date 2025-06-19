@@ -2,6 +2,7 @@
 
 I love solving problems and making machines talk to each other.
 I am a self-taught software engineer with a background in business and airline software development.
+Home is where the server is.
 
 🔭 Nerding out since the 90s
 
